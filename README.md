@@ -7,4 +7,4 @@ Currently, only the sample ID and raw read count are collected. Because this is 
 
 P0060_JZ_I4289_TTCATACG_L002_R1_001.json
 
-Most importantly, the "Specimen ID" is taken to be the part of the filename matching "_I####_".
+Most importantly, the sample ID is taken to be the part of the filename matching "_I####_".
