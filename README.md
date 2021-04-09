@@ -1,5 +1,5 @@
 # rabbitqc_json_parser
-Code to parse output from RabbitQC
+Code to parse output from RabbitQC JSON data.
 
 This code takes in a directory containing outputs from RabbitQC. It parses information from the JSON-formatted output file for compilation into a data object (e.g., database, dataframe, excel, etc) via a CSV file.
 
